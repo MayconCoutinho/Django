@@ -14,7 +14,7 @@
 
 # 🧅 Seções do Curso
 - [x] Seção 1 ➜ 23 min: Apresentação - 16/10/2022
-- [x] Seção 2 ➜ 3h 53m: Base da programação - 16/10/2022
+- [x] Seção 2 ➜ 3h 53m: Base da programação - 16/10/2022 Estudos Pausado estou focando em React.js e Node.js
 - [ ] Seção 3 ➜ 6h 00m: Django Framework Básico
 - [ ] Seção 4 ➜ 3h 51m: Django Framework Intermediário 
 - [ ] Seção 5 ➜ 4h 13m: Django Framework Avançado
