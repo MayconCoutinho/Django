@@ -16,8 +16,8 @@
 <p align="center">
   <a href="#Introdução"> 🧩 Introdução </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Secoes"> 🧅 Seções do Curso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Resultados"> 🚀 Resultados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Dependências"> 🧪 Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Ideias">💡 Possíveis Melhorias </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Creditos"> 🏆 Créditos </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -29,7 +29,7 @@
 </br>
 
 
-  ***⠀⠀⠀⠀Aqui será encontrado todo o material e projetos de estudo do framework Django.***
+  ***⠀⠀⠀⠀O curso tem um total de 36 horas com foco em aplicações web utilizando Python, Django, SQLite, MySQL e PostgreSQL, nesse repositorio tem todo o material/projetos de estudo do framework Django.***
   
 
 </br>
@@ -55,11 +55,44 @@
 
 ### Total de 36 horas
 
+<br/>
 
-  </br>
+<a id="Resultados"></a>
+## 🚀 Resultados 
+  > Todos os resultados foram alcançados com sucesso. De modo geral são esses os resultados de cada requisição. 
+
+  # Aqui vai ficar prints e resultados do projeto 🖼️ estudo em andamento
+
+<br/> 
+
+<a id="Dependências"></a>
+## 🧪 Dependências
+
+> Requisitos do curso...
+
+<br /> 
+
+### Há algum requisito ou pré-requisito para o curso?
+- Necessário ter realizado o curso Programação para Leigos da Geek University ou ter conhecimentos equivalentes;
+- Necessário ter realizado o curso de Algoritmos e Lógica de Programação da Geek University ou ter conhecimentos equivalentes
+- Necessário ter realizado o curso de Programação com Python da Geek University ou ter conhecimentos equivalentes
+- Necessário ter realizado o curso de Banco de Dados da Geek University ou ter conhecimentos equivalentes
+- Necessário ter computador atualizado nas últimas versões, ou do Windows, ou o Linux (Ubuntu) ou o Mac
+- Necessário ter acesso à Internet para baixar programas
+
+<br /> 
+
+### Para quem é este curso:
+- Programadores que desejam aprender a programar para a Web utilizando Python e Django
+- Profissionais da área de programação que não conheçam programação para Web e querem aprender utilizando Django
+- Profissionais que já conheçam programação para a Web mas desejam utilizar todo o poder da linguagem Python e do Framework Django
+
+<br />   
 
 ### 🍇 [Link do Curso](https://www.udemy.com/share/101Xty3@CrxpTUAosJOwkxWauJTLY2xhYko7Tb3hxj53gv2lQnXW3L3RRGPVWI19cYQyxVXc/)
 
+
+</br>
 
 <a id="Creditos"></a>
 ## 🏆 Créditos
