@@ -1,16 +1,33 @@
-# 🐍 Estudando Django 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60453269/219976781-3dac1f86-f93f-4d7f-beeb-1db28879920c.png" alt="Logo" width="150" height="150" />
+</p>
 
-<h1 align="center">
-  <img width=420 height= 220 src="https://user-images.githubusercontent.com/60453269/196063898-20ca792c-ce3e-451e-8c18-ba4b3f1fb711.jpg">
+<h1 align="center"> Estudos Django  </h1>
 
-</h1>
+<p align="center">
+  <b> Web com Python e Django </b>
+  </br>
+  <sub> O obejetivo desse projeto é ter todo processo do curso de Django,como anotações e projetos. 
+  <sub>
+</p>
 
-<h1 align="center">
-   🧠 Mapa Mental do Curso 🗺
-</h1>
-<h1 align="center">
-<img width=800 height= 600 src="https://user-images.githubusercontent.com/60453269/196063507-bb1ceb17-e6ae-426f-8f38-ac3ca0a10a1a.png">
-</h1>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+<p align="center">
+  <a href="#Introdução"> 🧩 Introdução </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Resultados"> 🚀 Resultados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Dependências"> 🧪 Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Ideias">💡 Possíveis Melhorias </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Creditos"> 🏆 Créditos </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+</br>
+
+
+<a id="Introdução"></a>
+## 🧩 Introdução 
+
+  ***⠀⠀⠀⠀Aqui será encontrado todo o material e projetos de estudo do framework Django.***
 
 # 🧅 Seções do Curso
 - [x] Seção 1 ➜ 23 min: Apresentação - 16/10/2022
