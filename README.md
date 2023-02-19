@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="#Introdução"> 🧩 Introdução </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Resultados"> 🚀 Resultados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Secoes"> 🧅 Seções do Curso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Dependências"> 🧪 Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Ideias">💡 Possíveis Melhorias </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Creditos"> 🏆 Créditos </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,16 +23,25 @@
 
 </br>
 
-
 <a id="Introdução"></a>
 ## 🧩 Introdução 
 
-  ***⠀⠀⠀⠀Aqui será encontrado todo o material e projetos de estudo do framework Django.***
+</br>
 
-# 🧅 Seções do Curso
+
+  ***⠀⠀⠀⠀Aqui será encontrado todo o material e projetos de estudo do framework Django.***
+  
+
+</br>
+
+
+<a id="Secoes"></a>
+## 🧅 Seções do Curso
+
+</br>
+
 - [x] Seção 1 ➜ 23 min: Apresentação - 16/10/2022
-- [x] Seção 2 ➜ 3h 53m: Base da programação - 16/10/2022  ### Estudos Pausado estou focando em React.js e Node.js
-- [ ] Seção 3 ➜ 6h 00m: Django Framework Básico
+- [x] Seção 2 ➜ 3h 53m: Base da programação - 16/10/2022 - Estudos Pausado
 - [ ] Seção 4 ➜ 3h 51m: Django Framework Intermediário 
 - [ ] Seção 5 ➜ 4h 13m: Django Framework Avançado
 - [ ] Seção 6 ➜ 1h 39m: Testando seu projeto
@@ -46,4 +55,21 @@
 
 ### Total de 36 horas
 
-# 🍇 [Link do Curso](https://www.udemy.com/share/101Xty3@CrxpTUAosJOwkxWauJTLY2xhYko7Tb3hxj53gv2lQnXW3L3RRGPVWI19cYQyxVXc/)
+
+  </br>
+
+### 🍇 [Link do Curso](https://www.udemy.com/share/101Xty3@CrxpTUAosJOwkxWauJTLY2xhYko7Tb3hxj53gv2lQnXW3L3RRGPVWI19cYQyxVXc/)
+
+
+<a id="Creditos"></a>
+## 🏆 Créditos
+
+<br /> 
+
+<div > 
+
+| [<img src="https://user-images.githubusercontent.com/60453269/217899761-dc2d4e4b-3336-419d-9076-79304290aa0a.png" width=300><br><sub> Maycon Coutinho </sub>](https://www.linkedin.com/in/maycon-coutinho/) | ***Hello 😃 Se você chegou até aqui, acredito que gostou do meu projeto/estudo, nesse caso temos algo em comum, sendo assim que tal conversamos um pouco? Meu chama no linkedin 😁*** | 
+|---|---|
+
+</div> 
+
