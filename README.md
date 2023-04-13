@@ -26,6 +26,7 @@
 <a id="Introdução"></a>
 ## 🧩 Introdução 
 
+
 </br>
 
 
@@ -34,6 +35,9 @@
 
 </br>
 
+### ⠀⠀⠀⠀🚧 Este projeto acabou sendo abandonado. Em resumo, concluí apenas 35% do curso e, após compreender melhor a ferramenta e analisar o mercado, percebi que, no momento, não valeria a pena investir nela, pois existem ferramentas mais eficientes, populares e em maior demanda.
+
+</br>
 
 <a id="Secoes"></a>
 ## 🧅 Seções do Curso
@@ -59,9 +63,10 @@
 
 <a id="Resultados"></a>
 ## 🚀 Resultados 
-  > Todos os resultados foram alcançados com sucesso. De modo geral são esses os resultados de cada requisição. 
+  > Todos os resultados foram alcançados com sucesso. De modo geral são esses os resultados. 
 
-  # Aqui vai ficar prints e resultados do projeto 🖼️ estudo em andamento
+  ### Aqui vai ficar prints e resultados do projeto 🖼️ estudo em andamento
+  
 
 <br/> 
 
