@@ -45,7 +45,8 @@
 </br>
 
 - [x] Seção 1 ➜ 23 min: Apresentação - 16/10/2022
-- [x] Seção 2 ➜ 3h 53m: Base da programação - 16/10/2022 - Estudos Pausado
+- [x] Seção 2 ➜ 3h 53m: Base da programação - 16/10/2022 
+- [x] Seção 3 ➜ 6h 00m: Django Framework Basico - 17/10/2022 - Estudos Pausado
 - [ ] Seção 4 ➜ 3h 51m: Django Framework Intermediário 
 - [ ] Seção 5 ➜ 4h 13m: Django Framework Avançado
 - [ ] Seção 6 ➜ 1h 39m: Testando seu projeto
